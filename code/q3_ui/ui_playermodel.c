@@ -54,7 +54,7 @@ static char* playermodel_artlist[] =
 #define PLAYERGRID_ROWS		4
 #define MAX_MODELSPERPAGE	(PLAYERGRID_ROWS*PLAYERGRID_COLS)
 
-#define MAX_PLAYERMODELS	256
+#define MAX_PLAYERMODELS	9999
 
 #define ID_PLAYERPIC0		0
 #define ID_PLAYERPIC1		1
