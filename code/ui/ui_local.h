@@ -140,10 +140,10 @@ extern vmCvar_t ui_serverStatusTimeOut;
 #define LCOLUMN_OFFSET			(-BIGCHAR_WIDTH )
 
 #define SLIDER_RANGE			10
-#define	MAX_EDIT_LINE			256
+#define	MAX_EDIT_LINE			999
 
-#define MAX_MENUDEPTH			8
-#define MAX_MENUITEMS			96
+#define MAX_MENUDEPTH			99
+#define MAX_MENUITEMS			99
 
 #define MTYPE_NULL				0
 #define MTYPE_SLIDER			1	
