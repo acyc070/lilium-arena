@@ -636,7 +636,7 @@ typedef struct {
 #define MAX_MODS 64
 #define MAX_DEMOS 512
 #define MAX_MOVIES 256
-#define MAX_PLAYERMODELS 256
+#define MAX_PLAYERMODELS 9999
 
 
 typedef struct {
